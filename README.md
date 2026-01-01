@@ -6,4 +6,5 @@
 | ---- | ---- | ---- |
 | X | [@daikiskm](https://twitter.com/daikiskm) | SNS |
 | LinkedIn | [daikiskm](https://www.linkedin.com/in/daikiskm/) | SNS(Career) |
-| note | [daiki_skm](https://note.com/daiki_skm/) | Blog |
+| note | [daikisakuma](https://note.com/daikisakuma) | Blog |
+| Instagram | [daikisakuma](https://www.instagram.com/daikisakuma/) | Photo |
